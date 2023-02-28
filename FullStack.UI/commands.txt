@@ -1,0 +1,11 @@
+ng new FullStack.UI
+
+ng g c employees-list
+
+ng g s employees
+
+ng generate environments
+
+ng g c add-employee
+
+ng g c edit-employee
